@@ -1,1 +1,2 @@
 Welcome to the version control
+added the new line
