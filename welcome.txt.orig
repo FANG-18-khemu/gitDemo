@@ -1,5 +1,8 @@
 Welcome to the version control
 added the new line
 
+<<<<<<< HEAD
 haha create to merge with the change 
-
+=======
+we have to create the gitwork
+>>>>>>> GitWork
